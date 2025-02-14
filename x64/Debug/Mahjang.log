@@ -1,0 +1,4 @@
+﻿  Mounten.cpp
+D:\Production\VisualStudio\test\Mahjang\Game.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+D:\Production\VisualStudio\test\Mahjang\Dealing.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  Mahjang.vcxproj -> D:\Production\VisualStudio\test\Mahjang\x64\Debug\Mahjang.exe
